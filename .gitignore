@@ -1,0 +1,7 @@
+*.o
+*.PBP
+*.SFO
+*.elf
+*.prx
+*.tar.gz
+bin
